@@ -35,7 +35,7 @@
     "idle"
   ],
   "dependencies": {
-    "chalk": "^2.1.0",
+    "chalk": "^2.3.0",
     "cli-cursor": "^2.1.0",
     "cli-spinners": "^1.0.1",
     "log-symbols": "^2.1.0"
